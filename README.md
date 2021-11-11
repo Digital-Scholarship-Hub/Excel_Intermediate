@@ -1,6 +1,6 @@
 # Excel_Intermediate
 
-When you join the workshop, please download the data by clicking on the following link and clicking "view raw" or the "download" button: (https://github.com/ClaraTurp/WorkingWithDataInExcel/blob/main/Mcg_Introduction_Excel_Workshop.xlsx). Open the dataset. Click "enable editing" in the yellow ribbon. You can follow along or just watch us do the demonstration.
+When you join the workshop, please download the data by clicking on the following link and clicking "view raw" or the "download" button: (https://github.com/ClaraTurp/Excel_Intermediate/blob/main/mcgill_library_excel_intermediate_v2.xlsx). Open the dataset. Click "enable editing" in the yellow ribbon. You can follow along or just watch us do the demonstration.
 
 Here is the link to the step-by-step guide, so there should not be a need to take notes during the workshop: https://github.com/ClaraTurp/Excel_Intermediate/blob/main/Intermediate_Excel_2021-11.pdf
 
