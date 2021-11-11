@@ -4,7 +4,7 @@ When you join the workshop, please download the data by clicking on the followin
 
 Here is the link to the step-by-step guide, so there should not be a need to take notes during the workshop: https://github.com/ClaraTurp/Excel_Intermediate/blob/main/Intermediate_Excel_2021-11.pdf
 
-Attribution for the data :
-Attribution for the workshop: 
+Attribution for the data : https://github.com/fivethirtyeight/data/tree/master/bechdel
+Attribution for the workshop: https://github.com/barnarderc/workshops/tree/master/Fall%202018/Intermediate%20Excel%20for%20Data%20Analysis
 
 Please fill out this survey after the workshop, we appreciate your feedback! (link to survey: https://forms.office.com/Pages/ResponsePage.aspx?id=cZYxzedSaEqvqfz4-J8J6kIT7q_CTc9IqEo5B4k1d7lUNVFRMEVIR0EyR1AzSDZDOTY2UlU4SzUwRS4u) 
