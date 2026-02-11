@@ -6,7 +6,7 @@ Here is the link to the step-by-step guide, so there should not be a need to tak
 
 Attribution for the data : https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results/data <br>
 
-# Intermediate Excel (general)
+## Intermediate Excel (general)
 
 When you join the workshop, please download the data by clicking on the following link: [Access Data](https://github.com/Digital-Scholarship-Hub/Excel_Intermediate/blob/main/mcgill_library_excel_intermediate_v2.xlsx).<br>
 Click "view raw" or the "download" button. Open the dataset. Click "enable editing" in the yellow ribbon. You can follow along or just watch us do the demonstration.
